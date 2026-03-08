@@ -19,7 +19,7 @@
 
 ## 深度学习
 
-[LLM](深度学习/5256afdf-52a5-410c-845b-4b5099dd62b0_Export-1af4d6a4-cfa7-4927-b586-31566d94baa9/LLM%204968d10b44c64639b1cecca08de3e8a5.md)  
+[LLM](深度学习/LLM.md)  
 [深度学习基础](深度学习/DLFunda.md)  
 [CNN](深度学习/CNN2.md)  
 [RNN](深度学习/RNN.md)  

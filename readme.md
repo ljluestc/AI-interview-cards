@@ -45,4 +45,4 @@
 
 如果觉得该仓库有益，欢迎关注我的微信公众号：苏坡爱豆
 
-![WeChat](readme%20md%2059479e695dc044bd8bf6ce7f3942924b/Untitled.png)
+![WeChat](assets/WeChat.png)
